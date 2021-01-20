@@ -1,0 +1,6 @@
+# SSCConfigurationFile 2020-12-26
+
+"stakerAddress": QTJDTChU2dk1L76BF28yaDjsqwapeF7RSF,  # Super Staker address
+"stakerFee": 3,                              # required fee for Super Staker
+"stakerMinUTXOSize": 100,                    # default size for most Super Stakers
+"isMainnet": true,                           # or false for testnet
